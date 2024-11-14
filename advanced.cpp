@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../header/advanced.h"
+#include "advanced.h"
 
 void sous_chaine(const char *source, char *dest, int debut, int longueur){ 
     int i = 0;
