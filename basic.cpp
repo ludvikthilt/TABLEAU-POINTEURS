@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../header/basic.h"
+#include "basic.h"
 
 int longueur (const char *chaine){
     int i = 0;
