@@ -1,7 +1,7 @@
 #include <iostream>
-#include "../header/basic.h"
-#include "../header/advanced.h"
-#include "../header/pendu.h"
+#include "basic.h"
+#include "advanced.h"
+#include "pendu.h"
 
 using namespace std;
 
