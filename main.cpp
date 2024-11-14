@@ -21,9 +21,9 @@ une chaine de caractère est un tableau
 
 #include <iostream>
 #include <string>
-#include "../header/basic.h"
-#include "../header/advanced.h"
-#include "../header/pendu.h"
+#include "basic.h"
+#include "advanced.h"
+#include "pendu.h"
 
 using namespace std;
 
